@@ -1,5 +1,7 @@
 # Testing the Header
 
-## Updating file
+## Testing a change
 
-## addition for new branch
+## Testing a conflict
+
+### This is how I want it to look.
