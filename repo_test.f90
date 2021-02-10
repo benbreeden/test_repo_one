@@ -6,7 +6,7 @@ character :: key
 print*,'Enter a value for y'
 read*, y
 
-x = 10+y
+x = 10+y+5
 
 print*,'Here is your value for x:',x
 
