@@ -1,12 +1,13 @@
 program repo_test
 implicit none
-real :: x,y
+real :: x,y,t
 character :: key
 
 print*,'Enter a value for y'
 read*, y
 
-x = 10+y+5
+t=5*4
+x = 10+y+5+t
 
 print*,'Here is your value for x:',x
 
